@@ -1,0 +1,16 @@
+O programa principal main.cpp lê comandos passados como entrada e manipula uma ou mais listas. Os comandos aceitos pelo menu principal estão listados abaixo.
+
+Comando	Significado
+exit	sair
+createlist	cria nova lista
+addback x list k	adiciona x no final da lista k
+addfront x list k	adiciona x no início da lista k
+remove x list k	remove a primeira ocorrência de x da lista k
+removeall x list k	remove todos os elementos com valor x da lista k
+removefront k	remove o elemento no início da lista k
+removeback k	remove o elemento no final da lista k
+empty k	retorna se a lista k está vazia ou não
+size k	retorna a quantidade de elementos na lista k
+clear k	deixa a lista k vazia
+print k	imprime os elementos da lista k
+contains x list k	retorna se a lisa k contém o elemento x

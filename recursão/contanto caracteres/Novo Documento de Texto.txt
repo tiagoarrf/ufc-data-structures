@@ -1,0 +1,12 @@
+Entrada
+Linha 1: string com até 100 caracteres.
+Linha 2: caractere (que será contado na string anterior)
+Saída
+Número de ocorrências do caractere na string.
+Exemplos
+>>>>>>>>
+fundamentos de programacao
+a
+========
+4
+<<<<<<<<

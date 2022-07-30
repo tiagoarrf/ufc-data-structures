@@ -1,0 +1,39 @@
+Exemplo de Entrada:
+Joao
+1
+FUP
+10
+Maria
+2
+FUP
+8.5
+
+Exemplo de Saída:
+Joao , 10.0
+
+Exemplo de Entrada:
+Rufus
+3
+Matematica
+4
+Maria
+4
+Matematica
+8
+
+Exemplo de Saída:
+Maria , 8.0
+
+
+Exemplo de Entrada:
+Rufus
+3
+Matematica
+4
+Carlos
+5
+Matematica
+4
+
+Exemplo de Saída:
+Rufus e Carlos , 4.0

@@ -1,0 +1,15 @@
+nvm
+nvm
+nvm
+nvm
+nma
+ptn mat 1
+ler a.txt mat 1
+ptn mat 1
+ler b.txt mat 2
+ptn mat 2
+sum mat 1 2
+nma
+ptn mat 5
+sum mat 5 5
+ext

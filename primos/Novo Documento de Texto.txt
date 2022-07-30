@@ -1,0 +1,24 @@
+* Todos os primos de A até B (um por linha).
+
+---
+
+Exemplos
+
+
+>>
+3
+11
+<<
+3
+5
+7
+11
+
+---
+
+>>
+4
+10
+<<
+5
+7

@@ -1,0 +1,81 @@
+Testes
+>>>>>>>> um
+0 4 # # 2 0 # # 3 # #
+0 4 # # 2 0 # # 3 # #
+========
+identica
+identica
+identica
+<<<<<<<<
+
+>>>>>>>> dois
+7 5 9 # # 1 # # 4 2 # # 3 # #
+0 4 # # 2 0 # # 3 # #
+========
+identica
+diferente
+diferente
+<<<<<<<<
+
+>>>>>>>> tres
+1 2 # # 3 4 # 5 # # 6 # #
+7 5 9 # # 1 # # 4 2 # # 3 # #
+========
+identica
+diferente
+diferente
+<<<<<<<<
+
+>>>>>>>> quatro
+1 6 # # 2 # 3 4 3 # # # 7 # 5 # #
+-1 -3 -4 # # # -2 -1 -10 # # -9999 -20 -500 # # -13 # # # # 
+========
+identica
+diferente
+diferente
+<<<<<<<<
+
+>>>>>>>> cinco
+1 2 # # 4 3 # # 6 # 5 7 # # 8 # #
+1 2 # # 4 3 # # 6 # 5 7 # # 8 # #
+========
+identica
+identica
+identica
+<<<<<<<<
+
+>>>>>>>> seis
+-1 -3 -4 # # # -2 -1 -10 # # -9999 -20 -500 # # -13 # # # #
+-1 # -7 # 7 # 6 0 # # 10 # -10 # #
+========
+identica
+diferente
+diferente
+<<<<<<<<
+
+>>>>>>>> sete
+-6 # -7 # 7 # 6 0 # # 10 # -10 # #
+-6 # -7 # 7 # 6 1 # # 10 # -1 # #
+========
+identica
+diferente
+diferente
+<<<<<<<<
+
+>>>>>>>> oito
+1 3 -4 # # # 2 # -1 # #
+1 3 -4 # # # 2 # 1 # #
+========
+identica
+diferente
+diferente
+<<<<<<<<
+
+>>>>>>>> nove
+0 0 0 # # 0 # # 0 0 # # 0 # #
+0 0 0 # # 0 # # 0 0 # # 0 # #
+========
+identica
+identica
+identica
+<<<<<<<<

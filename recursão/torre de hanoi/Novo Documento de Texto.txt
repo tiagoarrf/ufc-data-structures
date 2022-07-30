@@ -1,0 +1,18 @@
+Entrada
+Número de discos para mover da torre 'A' para a torre 'C'.
+Saída
+Sequência de movimentos para mover todos os discos (um movimento por linha).
+Notação do movimento do disco no topo da torre:
+torre de origem -> torre de destino.
+Exemplos
+>>>>>>>>
+3
+========
+A -> C
+A -> B
+C -> B
+A -> C
+B -> A
+B -> C
+A -> C
+<<<<<<<<
